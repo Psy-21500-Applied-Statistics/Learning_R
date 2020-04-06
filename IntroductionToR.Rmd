@@ -1,0 +1,14 @@
+---
+title: "Introduction to R"
+author: "Sophia Barrett"
+date: "4/6/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This semester we will be learning R along with our hand-calculations.  Knowing how to analyze data on a computer gives us more power in what we can do. Knowing how to do the analyses by hand gives us more power in understanding what we doing.  To this end, we will learn both hand-calculations and then applying this knowledge to computerized calculations using R.
+
+In order to get as familiar as possible, you should practice both statistics and R a bit each day.  If you do this, you will be more comfortable with the material before you know it.  
